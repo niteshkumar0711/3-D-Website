@@ -31,7 +31,6 @@ html,body{
 #page1{
     height: 100vh;
     width: 100vw;
-    background-color: red;
     position: relative;
 }
 
@@ -145,4 +144,21 @@ html,body{
     width: 90%;
     font-size: 4vw;
     color: #dadada69;
+}
+
+
+/* --------------------------------------------------------------------------------------------------------------------------------------------- */
+
+
+
+#page3{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+
+#page3>canvas{
+    max-height: 100vh;
+    max-width: 100vw;
+    position: relative;
 }
