@@ -13,3 +13,10 @@ html,body{
     position: relative;
     overflow: hidden;
 }
+
+#page1{
+    height: 100vh;
+    width: 100vw;
+    background-color: red;
+    position: relative;
+}
