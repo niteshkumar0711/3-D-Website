@@ -16,16 +16,16 @@ html,body{
 
 @font-face {
     font-family: a;
-    src: url(/Resources/jost-variable.ttf);
+    src: url(Resources/jost-variable.ttf);
 }
 
 @font-face {
     font-family: b;
-    src: url(/Resources/KFOlCnqEu92Fr1MmEU9fBBc4.ttf);
+    src: url(Resources/KFOlCnqEu92Fr1MmEU9fBBc4.ttf);
 }
 @font-face {
     font-family: c;
-    src: url(/Resources/KFOlCnqEu92Fr1MmEU9fBBc4.ttf);
+    src: url(Resources/KFOlCnqEu92Fr1MmEU9fBBc4.ttf);
 }
 
 #page1{
