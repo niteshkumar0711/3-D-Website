@@ -218,12 +218,12 @@ html,body{
 }
 
 
-footer {
-    position: relative; /* Ensure it's positioned in the normal flow */
-    z-index: 3; /* Higher than background elements */
-    background-color: #f1f1f1; /* Light background for visibility */
-    color: #000; /* Text color for contrast */
-    padding: 20px; /* Space around the text */
-    text-align: center; /* Center the text */
-    margin-top: 20px; /* Space above the footer */
-}
+/* footer {
+    position: relative; 
+    z-index: 3; 
+    background-color: #f1f1f1;
+    color: #000;
+    padding: 20px;
+    text-align: center; 
+    margin-top: 20px;
+} */
