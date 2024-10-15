@@ -12,6 +12,7 @@ html,body{
 #main{
     position: relative;
     overflow: hidden;
+    background-color: #1137ca;
 }
 
 @font-face {
@@ -161,4 +162,51 @@ html,body{
     max-height: 100vh;
     max-width: 100vw;
     position: relative;
+}
+
+
+/* --------------------------------------------------------------------------------------------------------------------------------------------- */
+
+#page4{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-color: #1137ca;
+    font-family: a;
+}
+
+#page4>h3{
+    margin-left: 15vw;
+    margin-bottom: 2vw;
+    font-weight: 100;
+    color: white;
+}
+
+#page4>h1{
+    margin-left: 15vw;
+    width: 70%;
+    font-size: 3vw;
+    font-weight: 100;
+    color: rgba(255, 255, 255, 0.658);
+}
+
+
+
+/* --------------------------------------------------------------------------------------------------------------------------------------------- */
+
+
+#page5{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+
+#page5>canvas{
+    position: relative;
+    max-width: 100vw;
+    max-height: 100vh;
 }
